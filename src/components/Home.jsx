@@ -40,7 +40,7 @@ const Home = () => {
                             <span className='pr-2'>
                                 <HiOutlineMail size={25} />
                             </span>
-                            Hire Me
+                            Mail
                         </a>
                         <a target='_blank' rel="noreferrer" href="https://www.linkedin.com/in/abhishek98kumar" smooth duration={550} data-aos="fade-up" data-aos-delay="2000" data-aos-duration="3000" className='group hover:scale-105 rounded w-auto h-8 px-1 flex items-center bg-none justify-center cursor-pointer mt-5 mb-28' >
 
